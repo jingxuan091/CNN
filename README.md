@@ -1,5 +1,4 @@
-This introductory exercise will get you familiar with temporal data.
+## Exercice on Convolutional Neural Network
 
-Your goal will be to **predict a salary on the 11th year based on the salaries of the past 10 years**.
+The goal of this exercice is to predict a salary on the 11th year based on the salaries of the past 10 years.
 
-Thanks to this basic example, you will easily code your first Recurrent Neural Network.
